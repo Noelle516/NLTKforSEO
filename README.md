@@ -25,7 +25,10 @@ conda create -n yourenvname python=x.x anaconda
 ```
 conda install -c anaconda nltk
 ```
-
+4. Instalar BeautifulSoup (anaconda es el canal)
+```
+conda install -c anaconda beautifulsoup4
+```
 ## Ejecución del codígo
 
 Puede ejecutar el "spider" usando el comando "python":
@@ -35,5 +38,8 @@ python todos.py
 **Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
 * Por esto proyecto el directorio de nivel superior: 
 
+## Ejecución del GUI
+
+
 ## Referenciass
-Por mas informacion: [NLTK Textbook](https://www.nltk.org/book/)
+[NLTK Textbook](https://www.nltk.org/book/)
