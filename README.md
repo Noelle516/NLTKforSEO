@@ -55,7 +55,7 @@ python todouser.py
 
 ## Añadir al corpus
 
-Para añadir al corpus, necesita crear un archivo txt en el directorio del corpus. Abre la applicación "Bloc de notas" y escribe el corpus ahí. Guardarle en la carpeta con el nombre del directorio "LTcorpus"
+Para añadir al corpus, necesita crear un archivo txt en el directorio del corpus. Abre la aplicación "Bloc de notas" y escribe el corpus ahí. Guardarle en la carpeta con el nombre del directorio ("LTcorpus")
 
 ## Referenciass
 [NLTK Textbook](https://www.nltk.org/book/)
