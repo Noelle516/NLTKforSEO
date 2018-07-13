@@ -53,6 +53,10 @@ python todouser.py
 **Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
 * Por esto proyecto el directorio de nivel superior: gui
 
+## Añadir al corpus
+
+Para añadir al corpus, necesita crear un archivo txt en el directorio del corpus. Abre la applicación "Bloc de notas" y escribe el corpus ahí. Guardarle en la carpeta con el nombre del directorio "LTcorpus"
+
 ## Referenciass
 [NLTK Textbook](https://www.nltk.org/book/)
 
