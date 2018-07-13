@@ -1,10 +1,10 @@
 # NLTK por SEO
 
-Este proyecto utiliza NLTK para análisis de las palabras claves. 
+Este proyecto utiliza NLTK para análisis de las palabras claves y las etiquetas. 
 
 ## Para Empezar
 
-Los instrucciones puede ayudarte obtener una copia del proyecto para su ordenador
+Los instrucciones puede ayudarte obtener una copia del proyecto para su ordenador.
 
 ### Los requisitos indispensables
 
@@ -29,9 +29,14 @@ conda install -c anaconda nltk
 ```
 conda install -c anaconda beautifulsoup4
 ```
+
+### Descargar El Proyecto en GitHub
+
+Ahora, puede descargar el proyecto en GitHub y ejecutar el código
+
 ## Ejecución del codígo
 
-Puede ejecutar el "spider" usando el comando "python":
+Puede ejecutar el "spider" usando el comando "python" en el símbolo de la sistema:
 ```
 python todos.py
 ```
