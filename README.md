@@ -45,6 +45,14 @@ python todos.py
 
 ## Ejecución del GUI
 
+Puede ejecutar el gui usando este comando en el símbolo del sistema:
+```
+python todouser.py
+```
+
+**Asegurarte usar el símbolo del sistema, activar tu virtualenv, y elegir el directorio de nivel superior del proyecto**
+* Por esto proyecto el directorio de nivel superior: gui
 
 ## Referenciass
 [NLTK Textbook](https://www.nltk.org/book/)
+¿Tienes preguntas? Enviarmelas aqui: noelle.rivera.516@gmail.com
