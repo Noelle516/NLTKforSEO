@@ -60,17 +60,17 @@ Para añadir al corpus, necesita crear un archivo txt en el directorio del corpu
 ## File Repository
 ```
 raspar/
-  scrapy.cfg
-  raspar/
-    __init__.py
-    items.py          # project items definition file
-    middlewares.py    # project middlewares file
-    pipelines.py      # project pipelines file
-    settings.py       # project settings file
-    spiders/          # a directory for your spiders
-      __init__.py
-      proyecto.py
-      userinput.py	
+	scrapy.cfg
+	raspar/
+		__init__.py
+		items.py          # project items definition file
+		middlewares.py    # project middlewares file
+		pipelines.py      # project pipelines file
+		settings.py       # project settings file
+		spiders/          # a directory for your spiders
+			__init__.py
+			proyecto.py
+			userinput.py	
 NLTK/
 	LTCorpus/
 		all.txt
@@ -78,10 +78,10 @@ NLTK/
 		destinos.txt
   		corpus.py
   		corpusgui.py
-  linkslength.py
-  keywordslinks.py
-  keywordsgui.py
-  linksgui.py
+	linkslength.py
+	keywordslinks.py
+	keywordsgui.py
+	linksgui.py
 ```
 
 
