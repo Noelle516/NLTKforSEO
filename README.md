@@ -63,25 +63,27 @@ raspar/
 	scrapy.cfg
 	raspar/
 		__init__.py
-		items.py          # project items definition file
-		middlewares.py    # project middlewares file
-		pipelines.py      # project pipelines file
-		settings.py       # project settings file
-		spiders/          # a directory for your spiders
+		items.py          	# project items definition file
+		middlewares.py   	# project middlewares file
+		pipelines.py      	# project pipelines file
+		settings.py       	# project settings file
+		spiders/          	# a directory for your spiders
 			__init__.py
-			proyecto.py
-			userinput.py	
+			userinput.py	# Spider that crawls URL given by user
 NLTK/
 	LTCorpus/
-		all.txt
-		destinations.txt
-		destinos.txt
-  		corpus.py
-  		corpusgui.py
-	linkslength.py
-	keywordslinks.py
-	keywordsgui.py
-	linksgui.py
+		all.txt			# corpus for terms that relate to the services
+		destinations.txt	# corpus that relates to the destinations
+  		corpus.py		# script for editing the corpora using a command prompt
+  		corpusgui.py		# script for editing the corpora using a GUI
+	linkslength.py			# script to find the gross text length and ratio to relevant keywords 
+					  for a set of URLs using the command prompt
+	keywordslinks.py		# script to find the keywords' scores for a set of URLs
+					  using the command prompt
+	keywordsgui.py			# script to find the keywords' scores for a set of URLs
+					  using a GUI
+	linksgui.py			# script to find the gross text length and ratio to relevant keywords 
+					  for a set of URLs using a GUI
 ```
 
 
