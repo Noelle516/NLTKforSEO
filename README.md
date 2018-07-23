@@ -71,18 +71,18 @@ raspar/
 			__init__.py
 			userinput.py	# Spider that crawls URL given by user
 NLTK/
-	LTCorpus/
-		all.txt			# corpus for terms that relate to the services
-		destinations.txt	# corpus that relates to the destinations
-  		corpus.py		# script for editing the corpora using a command prompt
-  		corpusgui.py		# script for editing the corpora using a GUI
-	linkslength.py			# script to find the gross text length and ratio to relevant keywords 
+	LTCorpus/			# corpora directory
+		all.txt			
+		destinations.txt	
+  		corpus.py		# Edit the corpora using a command prompt
+  		corpusgui.py		# Edit the corpora using a GUI
+	linkslength.py			# Find the gross text length and ratio
 					  for a set of URLs using the command prompt
-	keywordslinks.py		# script to find the keywords' scores for a set of URLs
+	keywordslinks.py		# Find the keywords' scores for a set of URLs
 					  using the command prompt
-	keywordsgui.py			# script to find the keywords' scores for a set of URLs
+	keywordsgui.py			# Find the keywords' scores for a set of URLs
 					  using a GUI
-	linksgui.py			# script to find the gross text length and ratio to relevant keywords 
+	linksgui.py			# Find the gross text length and ratio
 					  for a set of URLs using a GUI
 ```
 
