@@ -76,8 +76,8 @@ NLTK/
 		all.txt
 		destinations.txt
 		destinos.txt
-  corpus.py
-  corpusgui.py
+  		corpus.py
+  		corpusgui.py
   linkslength.py
   keywordslinks.py
   keywordsgui.py
