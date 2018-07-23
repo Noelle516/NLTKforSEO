@@ -57,6 +57,34 @@ python todouser.py
 
 Para añadir al corpus, necesita crear un archivo txt en el directorio del corpus. Abre la aplicación "Bloc de notas" y escribe el corpus ahí. Guardarle en la carpeta con el nombre del directorio ("LTcorpus")
 
+## File Repository
+```
+raspar/
+  scrapy.cfg
+  raspar/
+    __init__.py
+    items.py          # project items definition file
+    middlewares.py    # project middlewares file
+    pipelines.py      # project pipelines file
+    settings.py       # project settings file
+    spiders/          # a directory for your spiders
+      __init__.py
+      proyecto.py
+      userinput.py	
+NLTK/
+	LTCorpus/
+		all.txt
+		destinations.txt
+		destinos.txt
+  corpus.py
+  corpusgui.py
+  linkslength.py
+  keywordslinks.py
+  keywordsgui.py
+  linksgui.py
+```
+
+
 ## Referenciass
 [NLTK Textbook](https://www.nltk.org/book/)
 
